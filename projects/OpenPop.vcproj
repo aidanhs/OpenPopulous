@@ -234,6 +234,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\src\graphics\HFX_Defs.h"
+				>
+			</File>
+			<File
 				RelativePath="..\src\graphics\PaletteFile.cpp"
 				>
 			</File>
@@ -263,6 +267,14 @@
 			</File>
 			<File
 				RelativePath="..\src\graphics\SpriteFile.h"
+				>
+			</File>
+			<File
+				RelativePath="..\src\graphics\SpriteFileManager.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\graphics\SpriteFileManager.h"
 				>
 			</File>
 			<File
@@ -301,6 +313,14 @@
 		<Filter
 			Name="Widgets"
 			>
+			<File
+				RelativePath="..\src\widgets\Box.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\widgets\Box.h"
+				>
+			</File>
 			<File
 				RelativePath="..\src\widgets\Screen.cpp"
 				>
@@ -366,6 +386,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\src\game\GameHost.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\GameHost.h"
+				>
+			</File>
+			<File
 				RelativePath="..\src\game\GameScreen.cpp"
 				>
 			</File>
@@ -382,6 +410,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\src\game\Panel.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\Panel.h"
+				>
+			</File>
+			<File
 				RelativePath="..\src\game\Player.cpp"
 				>
 			</File>
@@ -395,6 +431,30 @@
 			</File>
 			<File
 				RelativePath="..\src\game\Route.h"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\Spell.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\Spell.h"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\Spell_Type.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\Spell_Type.h"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\SpellButton.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\src\game\SpellButton.h"
 				>
 			</File>
 			<File
